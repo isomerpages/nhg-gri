@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Our Partners & Collaborators/Our Partners & Collaborators.md
       - Our Partners & Collaborators/.keep
       - About Grp Research & Innovation.md
       - Our Leadership.md
