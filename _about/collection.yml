@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
-      - Contact Us.md
-      - Our Partners & Collaborators.md
+      - About Grp Research & Innovation.md
       - Our Leadership.md
       - About our Departments.md
-      - About Grp Research & Innovation.md
+      - Our Partners & Collaborators.md
+      - Contact Us.md
