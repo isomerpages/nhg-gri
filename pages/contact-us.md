@@ -11,6 +11,6 @@ contacts:
           this website, please fill in this&nbsp;<a target="_blank"
           rel="noopener noreferrer"
           href="https://form.gov.sg/66b03ab92cb113a3b424c7da"><u>FormSG&nbsp;form</u></a>.</p>
-    title: NHG Group Reserach & Innovation
+    title: For General Enquiries & Feedback
 feedback: ""
 ---
