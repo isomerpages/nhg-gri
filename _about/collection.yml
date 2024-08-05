@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - About Group Research & Innovation.md
+      - NHG Group Research & Innovation (GRI).md
       - Our Leadership.md
       - Our Departments/.keep
       - Our Departments/Centre for Medical Technologies & Innovations (CMTi).md
