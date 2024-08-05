@@ -7,7 +7,7 @@ contacts:
   - content:
       - phone: ""
       - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: For General Enquiries & Feedback
 feedback: ""
 ---
