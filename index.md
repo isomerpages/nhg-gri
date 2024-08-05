@@ -12,4 +12,5 @@ sections:
       dropdown:
         title: Hero Dropdown Title
         options: []
+      variant: center
 ---
