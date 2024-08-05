@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - About Grp Research & Innovation.md
+      - About Group Research & Innovation.md
       - Our Leadership.md
       - Our Departments/.keep
       - Our Departments/About our Departments.md
