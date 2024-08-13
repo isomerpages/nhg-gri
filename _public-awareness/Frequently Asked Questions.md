@@ -68,12 +68,6 @@ deciding to join a research study.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
 <summary>What are the possible benefits of participating in a Research Study?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -92,25 +86,12 @@ in a Research Study? &nbsp;</summary>
 <p></p>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 </div>
 <p>&nbsp; &nbsp;</p>
 <details class="isomer-details">
-<summary></summary>
+<summary>kjkhkjhkjhkh</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<p></p>
 <p>What are your rights as a volunteer research participant? &nbsp;</p>
