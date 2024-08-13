@@ -88,10 +88,3 @@ in a Research Study? &nbsp;</summary>
 </details>
 </div>
 <p>&nbsp; &nbsp;</p>
-<details class="isomer-details">
-<summary>kjkhkjhkjhkh</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<p>What are your rights as a volunteer research participant? &nbsp;</p>
