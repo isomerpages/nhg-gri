@@ -98,6 +98,7 @@ and how society has benefited from research that has been carried out.</p>
 </li>
 </ul>
 <p><a href="/files/Content Files/Public_Forum_Poster_20_July_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Event Brochure</a>
+<a href="/files/Public Awareness Files/Public_Forum_Poster_20_July_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
 </p>
 <p></p>
 </div>
@@ -118,6 +119,7 @@ spoke at the Forum, to create greater awareness and understanding of clinical
 research, to empower the public with the necessary knowledge to make informed
 decisions about participating in clinical trials.</p>
 <p><a href="/files/Content Files/Public_Forum_Poster_26_July_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Event Brochure</a>
+<a href="/files/Public Awareness Files/Public_Forum_Poster_26_July_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
 </p>
 <p></p>
 </div>
