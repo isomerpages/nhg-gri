@@ -16,7 +16,12 @@ deciding to join a research study.</p>
 <details class="isomer-details">
 <summary>What is Clinical Research?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>&nbsp;</p>
+<p>Clinical Research is research conducted in human volunteers to answer
+scientific health questions. Clinical Research helps to determine the safety
+and effectiveness of experimental drugs or devices. Clinical research is
+commonly described as a&nbsp; “Clinical Trial”, “Clinical Study” or an
+“Experiment”. Clinical Research is not the same as Clinical Treatment.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -72,7 +77,6 @@ and the quality of life for individuals with a chronic illness.</p>
 <details class="isomer-details">
 <summary>What happens during a Research Study?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>&nbsp;</p>
 <p>The Research Team, which may include Doctors, Nurses and other healthcare
 professionals, will check the health of the Participant at the beginning
 of the Research Study and screen the Participant using specific inclusion
