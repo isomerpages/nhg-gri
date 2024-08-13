@@ -2,6 +2,7 @@ collections:
   public-awareness:
     output: true
     order:
+      - Research Participant Information & Rights.md
       - Frequently Asked Questions.md
       - Useful Information.md
       - Research Participation Opportunities.md
