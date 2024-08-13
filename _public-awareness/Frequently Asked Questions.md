@@ -27,7 +27,6 @@ commonly described as a&nbsp; “Clinical Trial”, “Clinical Study” or an
 <details class="isomer-details">
 <summary>Why is Research important?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Research is an essential process in the search for better, faster and
 cheaper alternatives to existing treatment and diagnostic options. Research
 has the potential to uncover important knowledge that can improve our quality
@@ -38,39 +37,24 @@ of life.</p>
 <details class="isomer-details">
 <summary>What are the various types of Research?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>&nbsp;</p>
 <p>There are many unanswered questions in healthcare. Research studies are
 designed to answer some of these questions. The research design varies
 with the research question being asked. Some of the more common types of
 research are:</p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Interventional research</strong> is designed to determine whether
 a new treatment, new combination of drugs, a new device, a new surgical
 intervention, or new radiation therapy is safe and effective.&nbsp;&nbsp;</p>
-</li>
-<li>
 <p><strong>Prevention research</strong> is designed to look for better ways
 to prevent disease. These include research on drugs, vitamins, vaccines,
 minerals, and lifestyle changes.&nbsp;&nbsp;</p>
-</li>
-<li>
 <p><strong>Diagnostic research</strong> studies are conducted to find better
 tests or procedures for diagnosing a particular disease or condition.&nbsp;&nbsp;</p>
-</li>
-<li>
 <p><strong>Screening research</strong> studies test the best way to detect
 certain diseases or health conditions.</p>
-</li>
-<li>
 <p><strong>Epidemiological research</strong> tries to answer health issues
 in large groups of people or populations in natural settings.&nbsp;&nbsp;</p>
-</li>
-<li>
 <p><strong>Quality of Life research</strong> explores ways to improve comfort
 and the quality of life for individuals with a chronic illness.</p>
-</li>
-</ul>
 <p></p>
 </div>
 </details>
@@ -88,13 +72,16 @@ the research protocol. Research Participants might have more tests and
 doctor visits than patients who are not participating in the research.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>What are phases of Clinical Trials?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p>What are phases of Clinical Trials?</p>
 <p>What is Randomization?</p>
 <p>Who sponsors Research?</p>
 <p></p>
