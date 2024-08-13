@@ -2,5 +2,6 @@ collections:
   public-awareness:
     output: true
     order:
+      - Useful Information.md
       - Research Participation Opportunities.md
       - Public Events.md
