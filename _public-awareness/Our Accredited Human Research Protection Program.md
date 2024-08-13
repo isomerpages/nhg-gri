@@ -9,19 +9,22 @@ description: ""
 March 2007.</p>
 <p></p>
 <blockquote>
-<p>NHG was also commended for its strength - the DSRB on their depth of knowledge,
-experience and expertise for each Board, and the Research Quality Management
-and Research Education groups for the extensive programs of Research Auditing
-and Education carried out.</p>
+<p>NHG was also commended for its strength - the DSRB (Ethics Board on their
+depth of knowledge, experience and expertise for each Board, and the Research
+Quality Management and Research Education groups for the extensive programs
+of Research Auditing and Education carried out.</p>
 </blockquote>
 <p></p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.aahrpp.org/resources/for-research-participants/role-of-accreditation"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Content Images/Full_AAHRPP_Accreditation_Seal.png"></a>
 <p></p>
 <h4><strong>What is AAHRPP?</strong></h4>
 <p>AAHRPP is an independent and non-profit organization that performs accreditation
 of Human Subjects’ Protection Programs of institutions conducting research.
 AAHRPP accredits organizations that demonstrate standard of research subject
 protection beyond the threshold of regulatory requirements.</p>
+<p><a href="https://www.aahrpp.org/about/our-mission-and-history" rel="noopener noreferrer nofollow" target="_blank">Learn more about AAHRPP here</a>.</p>
+<p></p><a class="isomer-image-wrapper" href="https://www.aahrpp.org"><img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Content Images/AAHRPP_Logo.jpg"></a>
+<p></p>
 <h4><strong>Why does AAHRPP-Accreditation matter?</strong></h4>
 <p>To earn AAHRPP accreditation, each organization goes through a rigorous
 evaluation process, including a thorough site visit by experts in Human
