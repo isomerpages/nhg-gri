@@ -21,20 +21,29 @@ ethics reviews and comprehensive oversight of human research activities.</p>
 <p>The OHRPP is internationally accredited, reflecting NHG's dedication to
 maintaining high standards in research ethics and governance.</p>
 <h4><strong>Key Functions</strong></h4>
-<p><strong>&nbsp;1. Ethics Review and Approval</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Ethics Review and Approval</strong>
 <br>We oversee the ethics review process, ensuring all research involving
 human participants meets ethical standards and regulatory requirements.</p>
-<p><strong>&nbsp;2. Research Education and Training</strong>
+</li>
+<li>
+<p><strong>Research Education and Training</strong>
 <br>We provide training and resources to researchers, enhancing their understanding
 of ethical research practices.</p>
-<p><strong>&nbsp;3. Quality Assurance and Monitoring</strong>
+</li>
+<li>
+<p><strong>Quality Assurance and Monitoring</strong>
 <br>We conduct regular audits and monitoring to ensure compliance with ethical
 guidelines and policies.</p>
-<p><strong>&nbsp;4. Public Awareness and Outreach</strong>
+</li>
+<li>
+<p><strong>Public Awareness and Outreach</strong>
 <br>We promote public understanding of research and the rights of participants,
 offering resources and information sessions.</p>
-<p>&nbsp;<strong>Our OHRPP Units:</strong>
-</p>
+</li>
+</ul>
+<h4>&nbsp;<strong>Our OHRPP Units:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Domain Specific Review Board (DSRB)</p>
@@ -60,3 +69,4 @@ offering resources and information sessions.</p>
 </ul>
 <p>For more information about the Office of Human Research Protection Programme
 (OHRPP), please see here.</p>
+<p></p>
