@@ -2,7 +2,7 @@
 layout: homepage
 title: NHG Group Research & Innovation
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/favicon-isomer.ico
 permalink: /
 notification: Site under Construction
 sections:
