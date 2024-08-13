@@ -46,17 +46,4 @@ influence.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>We are an AAHRPP Accredited Organization</strong>
-</p>
-<p>The National Healthcare Group (NHG) and National University Hospital System
-(NUHS) are accredited by the <strong>Association for the Accreditation of Human Research Protection Program (AAHRPP)</strong>.</p>
-<p>AAHRPP is an established organization that promotes accreditation as a
-way to improve the quality of research and protect research participants.</p>
-<p>To earn its accreditation, NHG, NUHS and KTPH underwent a rigorous evaluation
-process, including a thorough site visit by experts in human research protection.
-AAHRPP-accredited organizations also have systems in place to monitor the
-well-being of research participants. Research participants can also trust
-that the researchers will put their safety and well-being above all else.
-To keep its accreditation, the institutions submit annual reports to AAHRPP
-and must undergo site visits at scheduled intervals.
-<br>For more information on accreditation, please refer to the <strong><a href="http://www.aahrpp.org/" rel="noopener noreferrer nofollow" target="_blank"><u>AAHRPP website</u></a></strong>.</p>
+<p></p>
