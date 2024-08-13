@@ -96,11 +96,21 @@ safety, efficacy and cost effectiveness.</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>What is Randomization?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In some Research Studies, Participants are randomised (equivalent to "tossing
+of coin") into treatment groups. In some of these studies, neither the
+Participant nor the Researchers may know what treatment the Participants
+would receive during the Research Study.</p>
+<p></p>
+</div>
+</details>
 </div>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
-<p>What is Randomization?</p>
+<p></p>
 <p>Who sponsors Research?</p>
 <p></p>
 <h4><strong>Participating in Research</strong></h4>
