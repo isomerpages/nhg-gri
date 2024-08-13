@@ -4,7 +4,7 @@ permalink: /frequently-asked-questions/
 variant: tiptap
 description: ""
 ---
-<p>Choosing to participate in an research activity is a very important decision.</p>
+<p>Choosing to participate in a research activity is a very important decision.</p>
 <p>The following information is written with the aim to help you understand
 the issues surrounding research and perhaps address some concerns relating
 to participating in research.</p>
@@ -117,11 +117,6 @@ agencies such as the A* STAR and National Medical Research Council.</p>
 </details>
 </div>
 <p>&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4><strong>Participating in Research</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
