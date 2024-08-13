@@ -11,8 +11,7 @@ to participating in research.</p>
 <p>It is often helpful to talk to a doctor, family members, or friends about
 deciding to join a research study.</p>
 <p></p>
-<p><strong>About Clinical Research</strong>
-</p>
+<h4><strong>About Clinical Research</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>What is Clinical Research?</summary>
@@ -38,13 +37,20 @@ deciding to join a research study.</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>What is Randomization?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Who sponsors Research?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
-<p></p>
-<p>What is Randomization? &nbsp;</p>
-<p>Who sponsors research? &nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
 <h4><strong>Participating in Research</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -111,5 +117,5 @@ in a Research Study? &nbsp;</summary>
 </div>
 <p>&nbsp; &nbsp;</p>
 <p></p>
-<p>End</p>
+<p></p>
 <p></p>
