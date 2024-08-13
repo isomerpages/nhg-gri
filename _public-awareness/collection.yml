@@ -2,9 +2,9 @@ collections:
   public-awareness:
     output: true
     order:
-      - Our accredited Human Research Protection Program.md
       - Participating in Research.md
       - Research Participant Information & Rights.md
+      - Our accredited Human Research Protection Program.md
       - Frequently Asked Questions.md
       - Research Participation Opportunities.md
       - Useful Information & Downloads.md
