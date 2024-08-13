@@ -2,6 +2,7 @@ collections:
   public-awareness:
     output: true
     order:
+      - Accreditation of Human Research Protection Program.md
       - Participating in Research.md
       - Research Participant Information & Rights.md
       - Frequently Asked Questions.md
