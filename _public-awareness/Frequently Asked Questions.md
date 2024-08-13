@@ -13,19 +13,34 @@ deciding to join a research study.</p>
 <p></p>
 <p><strong>About Clinical Research</strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>What is Clinical Research?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>&nbsp;</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>What are the various types of Research?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>What happens during a Research Study?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>What are phases of Clinical Trials?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
-<p>What are the various types of Research? &nbsp;</p>
-<p>What happens during a Research Study?</p>
-<p>What are phases of clinical trials? &nbsp;</p>
 <p>What is Randomization? &nbsp;</p>
 <p>Who sponsors research? &nbsp;</p>
 <p><strong>&nbsp;</strong>
