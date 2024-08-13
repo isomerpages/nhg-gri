@@ -27,6 +27,34 @@ Thailand’s Ethics Framework.</p>
 to improve processes and tackle issues related to clinical research. In
 addition, the teams discussed about the NHG’s AAHRPP-accredited human research
 protection programme, research training and quality management.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thai MOH Visit 2016/visit01.jpg">
+</div>
+<p><em><sup>A/Prof Lim Tock Han, on his presentation to the Thai Delegates</sup></em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thai MOH Visit 2016/visit02.jpg">
+</div>
+<p><em><sup>Ms Ng Hwee Hian, Deputy Director, Office of Human Research Protection Programme, NHG RDO, on her presentation to the Thai Delegates</sup></em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thai MOH Visit 2016/visit03.jpg">
+</div>
+<p><em><sup>Presentation of token of appreciation by Dr Jitsuda Buaakhao, Senior Advisor, Dept. of Medical Services, Thailand</sup></em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thai MOH Visit 2016/visit04.jpg">
+</div>
+<p><em><sup>Presentation of token of appreciation by A/Prof Lim Tock Han, Deputy GCEO (Education &amp; Research), NHG</sup></em>
+</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
