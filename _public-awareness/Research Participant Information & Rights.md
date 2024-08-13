@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>At NHG, we are committed to the safety and welfare of our Research Participants.
-We have set up a robust Human Research Protection Programme to safeguard
+We have set up a robust Human Research Protection Programme (HRPP) to safeguard
 your rights as a Research Participant.</p>
 <p>Knowing your rights allows you to participate more fully in research that
 can contribute to quality patient care.</p>
