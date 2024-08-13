@@ -69,12 +69,27 @@ and the quality of life for individuals with a chronic illness.</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>What happens during a Research Study?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>&nbsp;</p>
+<p>The Research Team, which may include Doctors, Nurses and other healthcare
+professionals, will check the health of the Participant at the beginning
+of the Research Study and screen the Participant using specific inclusion
+/ exclusion criteria.</p>
+<p>A Participant who is found to be eligible will be enrolled into the research
+study, should he or she consent to participate in the research, and the
+research team will perform the research related activities according to
+the research protocol. Research Participants might have more tests and
+doctor visits than patients who are not participating in the research.</p>
+</div>
+</details>
 </div>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
-<p>What happens during a Research Study?</p>
+<p></p>
 <p>What are phases of Clinical Trials?</p>
 <p>What is Randomization?</p>
 <p>Who sponsors Research?</p>
