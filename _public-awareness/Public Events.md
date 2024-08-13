@@ -103,7 +103,7 @@ and how society has benefited from research that has been carried out.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>26 July 2008: Public Forum "Am I Protected"</strong>
+<summary><strong>26 July 2008: Public Forum "Am I Protected?"</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NHG Research &amp; Development Office organised its 1st Public Forum on
