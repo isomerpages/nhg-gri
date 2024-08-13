@@ -9,10 +9,12 @@ description: ""
 Clinical Research Participation and useful contact information.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the English Version here</p>
+<p><a href="/files/Public Awareness Files/NHG_Research_Participant_Brochure__English__20_Jul_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the English Version here</a>
+</p>
 </li>
 <li>
-<p>Download the Chinese Version here</p>
+<p><a href="/files/Public Awareness Files/NHG_Research_Participant_Brochure__Chinese__20_Jul_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the Chinese Version here</a>
+</p>
 </li>
 </ul>
 <h4><strong>Tissue Donor’s Brochure</strong></h4>
@@ -22,7 +24,8 @@ Tissue Donor’s Brochure answers the commonly asked questions on donating
 human tissue for research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click here to download</p>
+<p><a href="/files/Public Awareness Files/NHG_Tissue_Donor_Brochure__English__1_July_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
+</p>
 </li>
 </ul>
 <p></p>
@@ -30,11 +33,18 @@ human tissue for research.</p>
 <p>Incidental Finding is a finding that has potential health or reproductive
 importance to the individual research subject and is discovered in the
 course of conducting research but is unrelated to the purposes, objectives
-or variables of the research studies.</p>
-<p>The Information Sheet provides an overview of how incidental findings
-are managed.</p>
-<p>Download the Information Sheet for Research Participants here</p>
-<p>Download the Information Sheet for Tissue Donors here</p>
+or variables of the research studies. The Information Sheet provides an
+overview of how incidental findings are managed.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Public Awareness Files/NHG_InfoSheet___Incidental_Finding_for_Research_Participants_8_Jan_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the Information Sheet for Research Participants here</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Public Awareness Files/NHG_InfoSheet___Incidental_Finding_for_Tissue_Donors_8_Jan_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the Information Sheet for Tissue Donors here</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p>Lifewise Magazine Feature Article "Tried &amp; Tested"</p>
 <p>Lifewise speaks to Dr Goh Boon Cher (Senior Consultant, Haematology-Oncology,
