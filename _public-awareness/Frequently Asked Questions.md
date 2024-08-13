@@ -106,12 +106,21 @@ would receive during the Research Study.</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Who sponsors Research?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Research is sponsored or funded by various bodies such as hospitals, foundations,
+voluntary groups, and pharmaceutical companies, in addition to government
+agencies such as the A* STAR and National Medical Research Council.</p>
+<p></p>
+</div>
+</details>
 </div>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
-<p>Who sponsors Research?</p>
+<p></p>
 <p></p>
 <h4><strong>Participating in Research</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
