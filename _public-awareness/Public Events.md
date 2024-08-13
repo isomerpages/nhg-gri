@@ -69,6 +69,9 @@ National University Hospital who shared how the research scene has evolved,
 and how society has benefited from research that has been carried out.</p>
 </li>
 </ul>
+<p><a href="/files/Content Files/Public_Forum_Poster_20_July_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Event Brochure</a>
+</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
