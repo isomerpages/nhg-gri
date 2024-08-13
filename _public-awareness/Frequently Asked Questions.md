@@ -20,36 +20,25 @@ deciding to join a research study.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are the various types of Research?</summary>
+<summary>Why is Research important?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>What happens during a Research Study?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>What are phases of Clinical Trials?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>What is Randomization?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Who sponsors Research?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Research is an essential process in the search for better, faster and
+cheaper alternatives to existing treatment and diagnostic options. Research
+has the potential to uncover important knowledge that can improve our quality
+of life.</p>
 <p></p>
 </div>
 </details>
 </div>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p>What are the various types of Research?</p>
+<p>What happens during a Research Study?</p>
+<p>What are phases of Clinical Trials?</p>
+<p>What is Randomization?</p>
+<p>Who sponsors Research?</p>
 <p></p>
 <h4><strong>Participating in Research</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
