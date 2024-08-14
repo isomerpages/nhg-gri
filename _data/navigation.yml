@@ -9,7 +9,7 @@ links:
   - title: Public Awareness
     collection: public-awareness
   - title: Newsroom
-    collection: about
+    collection: newsroom
   - title: Contact
     url: /contact/
     sublinks:
