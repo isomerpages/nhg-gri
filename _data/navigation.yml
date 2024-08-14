@@ -11,18 +11,4 @@ links:
   - title: Newsroom
     collection: newsroom
   - title: Contact
-    url: /contactgrp/
-    sublinks:
-      - title: Partner with Us
-        url: /parterus/
-      - title: Contact Us
-        url: /contact-us/
-  - title: Test menu group
-    url: /testmenugrp/
-    sublinks:
-      - title: Participating in Research
-        url: /participating-in-research/
-      - title: Research Participant's Rights
-        url: /research-participant-rights/
-      - title: Frequently Asked Questions
-        url: /frequently-asked-questions/
+    url: /contact-us/
