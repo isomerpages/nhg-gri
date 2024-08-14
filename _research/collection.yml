@@ -2,4 +2,4 @@ collections:
   research:
     output: true
     order:
-      - Research.md
+      - About NHG Research.md
