@@ -1,5 +1,5 @@
 collections:
-  contact:
+  contact2:
     output: true
     order:
       - Partner with Us.md
