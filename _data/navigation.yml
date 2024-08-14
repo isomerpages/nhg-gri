@@ -3,9 +3,9 @@ links:
   - title: About Us
     collection: about
   - title: Research
-    url: /research/
+    collection: research
   - title: Innovation
-    url: /innovation/
+    collection: innovation
   - title: Public Awareness
     collection: public-awareness
   - title: Contact Us
