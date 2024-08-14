@@ -17,3 +17,8 @@ links:
         url: /parterus/
       - title: Contact Us
         url: /contact-us/
+  - title: Test menu group
+    url: /testmenugrp/
+    sublinks:
+      - title: Public Awareness2
+        url: /permalink
