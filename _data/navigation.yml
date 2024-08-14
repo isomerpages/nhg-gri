@@ -2,6 +2,10 @@ logo: /images/GRI Logo/GRI.png
 links:
   - title: About Us
     collection: about
+  - title: Research
+    url: /research/
+  - title: Innovation
+    url: /innovation/
   - title: Public Awareness
     collection: public-awareness
   - title: Contact Us
