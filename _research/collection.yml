@@ -2,4 +2,5 @@ collections:
   research:
     output: true
     order:
+      - Our Accredited Human Research Protection Program.md
       - About NHG Research.md
