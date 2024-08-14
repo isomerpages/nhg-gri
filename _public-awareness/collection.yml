@@ -2,7 +2,6 @@ collections:
   public-awareness:
     output: true
     order:
-      - Test Reference.md
       - Participating in Research.md
       - Your Rights as a Research Participant.md
       - Frequently Asked Questions.md
