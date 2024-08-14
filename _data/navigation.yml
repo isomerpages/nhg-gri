@@ -10,10 +10,3 @@ links:
     collection: public-awareness
   - title: Newsroom
     collection: newsroom
-  - title: Contact
-    url: /contact/
-    sublinks:
-      - title: Partner with Us
-        url: /partnerus/
-      - title: Contact Us
-        url: /contact_us/
