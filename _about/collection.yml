@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Our GRI Units.md
       - NHG Group Research & Innovation (GRI).md
       - Our Leadership.md
       - Our Departments/.keep
