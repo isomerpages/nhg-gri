@@ -2,12 +2,12 @@ collections:
   about:
     output: true
     order:
-      - Our GRI Departments.md
       - NHG Group Research & Innovation (GRI).md
       - Our Leadership.md
+      - Our GRI Departments.md
+      - Our Partners & Collaborators/.keep
+      - Our Partners & Collaborators/Our Partners & Collaborators.md
       - Our Departments/.keep
       - Our Departments/Centre for Medical Technologies & Innovations (CMTi).md
       - Our Departments/Clinician Scientist Development Office (CSDO).md
       - Our Departments/Office of Human Research Protection Programme (OHRPP).md
-      - Our Partners & Collaborators/.keep
-      - Our Partners & Collaborators/Our Partners & Collaborators.md
