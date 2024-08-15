@@ -6,7 +6,7 @@ description: ""
 ---
 <p>NHG Group Research &amp; Innovation comprises of the following Departments.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Centre for Medical Technologies &amp; Innovations (CMTi)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -24,6 +24,18 @@ NHG, offering training and mentorship to develop projects that improve
 healthcare delivery. By fostering collaboration and providing resources,
 CMTi aims to be a leader in healthcare innovation, driving advancements
 that benefit both patients and the broader medical community.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Clinician Scientist Development Office (CSDO)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Office of Human Research Protection Programme (OHRPP)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
