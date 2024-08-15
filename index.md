@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: NHG Group Research & Innovation
+title: NHG Group Research & Innovation (GRI)
 description: An Isomer site of the Singapore Government
 image: /images/favicon-isomer.ico
 permalink: /
