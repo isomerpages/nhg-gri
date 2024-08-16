@@ -4,4 +4,4 @@ permalink: /gri-leadership/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Coming soon.</p>
