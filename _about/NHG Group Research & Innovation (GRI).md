@@ -4,12 +4,12 @@ permalink: /aboutgri/
 variant: tiptap
 description: ""
 ---
-<p>At NHG, we believe that Research and Innovation are at the heart of advancing
-healthcare.</p>
-<p>Established in 2004, NHG Group Research &amp; Innovation is dedicated
-to cultivating medical research and developing innovative medical technologies
-through collaborative partnerships with our academic partners and the MedTech
-industry.</p>
+<p>At the <strong>National Healthcare Group (NHG)</strong>, we believe that <strong>Research </strong>and <strong>Innovation</strong> are
+at the heart of <strong>advancing healthcare</strong>.</p>
+<p>Established in 2004, <strong>NHG Group Research &amp; Innovation</strong> is
+dedicated to cultivating medical research and developing innovative medical
+technologies through collaborative partnerships with our academic partners
+and the MedTech industry.</p>
 <p>Our mission is to enhance patient care and outcomes through cutting-edge
 research and collaboration.</p>
 <p>Our work focuses on enabling research that:</p>
@@ -46,7 +46,7 @@ transparent, and trustworthy.
 training and development programs. Our goal is to cultivate a new generation
 of talented clinician-scientists who will lead future healthcare innovations.
 We also continually enhance our research infrastructure to support these
-endeavours.</p>
+endeavors.</p>
 <p><strong>Collaborations &amp; Partnerships</strong>
 </p>
 <p>NHG is committed to building strong partnerships with academic institutions,
@@ -58,6 +58,8 @@ healthcare challenges, ultimately improving patient care.</p>
 public, we invite you to join us in our mission to advance healthcare.</p>
 <p>Together, we can make a difference in the lives of patients and add Years
 of Healthy Life.</p>
+<p></p>
+<p>Learn more about the <a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank">National Healthcare Group (NHG)</a> here.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
