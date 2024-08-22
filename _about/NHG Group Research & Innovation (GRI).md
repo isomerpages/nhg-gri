@@ -4,13 +4,28 @@ permalink: /aboutgri/
 variant: tiptap
 description: ""
 ---
-<p>At the <strong>National Healthcare Group (NHG)</strong>, we believe that <strong>Research </strong>and <strong>Innovation</strong> are
+<h4><strong>National Healthcare Group</strong></h4>
+<p>The National Healthcare Group (NHG) is a leader in public healthcare in
+Singapore recognised for delivering high value patient care. Our clinical
+services are provided through an integrated system of primary care polyclinics,
+acute care tertiary hospitals, community hospitals, national specialty
+centres, and community-based ambulatory care centres.</p>
+<p>Together, we provide comprehensive, holistic, and innovative healthcare
+to address the needs of our patients and the population we serve. As a
+learning organisation, we are establishing ourselves as an academic health
+system to drive clinical excellence, raise research intensity and grow
+our academic partnerships to continually improve the way we deliver care
+to our patients.</p>
+<p>Learn more about the <a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank">National Healthcare Group (NHG)</a> here.</p>
+<p></p>
+<h4><strong>NHG Group Research &amp; Innovation</strong></h4>
+<p>At NHG, we believe that <strong>Research </strong>and <strong>Innovation</strong> are
 at the heart of <strong>advancing healthcare</strong>.</p>
-<p>Established in 2004, <strong>NHG Group Research &amp; Innovation</strong> is
+<p>Established in 2004 as an NHG HQ Office, the <strong>NHG Group Research &amp; Innovation (GRI)</strong> is
 dedicated to cultivating medical research and developing innovative medical
 technologies through collaborative partnerships with our academic partners
 and the MedTech industry.</p>
-<p>Our mission is to enhance patient care and outcomes through cutting-edge
+<p>GRI's mission is to enhance patient care and outcomes through cutting-edge
 research and collaboration.</p>
 <p>Our work focuses on enabling research that:</p>
 <ul data-tight="true" class="tight">
@@ -59,7 +74,7 @@ public, we invite you to join us in our mission to advance healthcare.</p>
 <p>Together, we can make a difference in the lives of patients and add Years
 of Healthy Life.</p>
 <p></p>
-<p>Learn more about the <a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank">National Healthcare Group (NHG)</a> here.</p>
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
