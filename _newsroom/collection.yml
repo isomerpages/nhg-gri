@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Announcements.md
-      - eCatalyst Newsletter.md
       - Events.md
       - Media Releases.md
+      - eCatalyst Newsletter.md
