@@ -20,4 +20,8 @@ sections:
       url: /page/
       alt: image
       image: /images/ECatalyst/ecatalyst47.jpg
+  - resources:
+      title: Newsroom
+      id: resources
+      button: See more
 ---
