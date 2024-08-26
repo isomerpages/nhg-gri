@@ -12,7 +12,7 @@ sections:
       variant: center
   - infopic:
       title: e-Catalyst
-      subtitle: Issue 47 - June to July 2023
+      subtitle: Issue 47 (June to July 2023)
       id: infopic
       description: We learn about the ‘Little Brain’ and Its Not-so-little Role in
         Psychiatric Disorders and more ...
