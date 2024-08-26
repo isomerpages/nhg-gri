@@ -2,7 +2,7 @@ collections:
   newsroom:
     output: true
     order:
-      - Catalyst.md
       - Announcements.md
-      - Media Releases.md
+      - Catalyst.md
       - Events.md
+      - Media Releases.md
