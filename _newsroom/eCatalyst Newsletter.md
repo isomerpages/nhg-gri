@@ -29,7 +29,7 @@ strategically selected and finally put together for your reading pleasure.</p>
 <div class="isomer-card-description">Discover how Artificial Intelligence (AI) could be used to transform smartphone
 cameras for early skin cancer detection and automates lab processes for
 faster, accurate blood cell analysis.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Read more</div>
 </div>
 </a>
 </div>
