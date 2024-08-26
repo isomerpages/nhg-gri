@@ -5,14 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>National Healthcare Group</strong></h4>
-<p>The National Healthcare Group (NHG) is a leader in public healthcare in
-Singapore recognised for delivering high value patient care. Our clinical
-services are provided through an integrated system of primary care polyclinics,
-acute care tertiary hospitals, community hospitals, national specialty
-centres, and community-based ambulatory care centres.</p>
+<p>The <strong>National Healthcare Group (NHG)</strong> is a leader in public
+healthcare in Singapore recognized for delivering high value patient care.
+Our clinical services are provided through an integrated system of primary
+care polyclinics, acute care tertiary hospitals, community hospitals, national
+specialty centres, and community-based ambulatory care centres.</p>
 <p>Together, we provide comprehensive, holistic, and innovative healthcare
 to address the needs of our patients and the population we serve. As a
-learning organisation, we are establishing ourselves as an academic health
+learning organization, we are establishing ourselves as an academic health
 system to drive clinical excellence, raise research intensity and grow
 our academic partnerships to continually improve the way we deliver care
 to our patients.</p>
