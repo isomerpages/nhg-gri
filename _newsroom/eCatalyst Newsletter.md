@@ -12,3 +12,6 @@ Innovation as a hardcopy magazine, and in 2015, it evolved into the online
 research newsletter e-Catalyst.</p>
 <p>Each issue of the e-Catalyst is carefully planned for, with the articles
 strategically selected and finally put together for your reading pleasure.</p>
+<p></p>
+<p><a href="/files/ECatalyst Newsletters/ECatalyst 2023/ecatalyst_47_jun_jul_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">e-Catalyst Issue 47 (Jun-Jul 2023)</a>
+</p>
