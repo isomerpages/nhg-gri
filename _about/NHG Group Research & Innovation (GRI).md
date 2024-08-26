@@ -10,14 +10,14 @@ healthcare in Singapore recognized for delivering high value patient care.
 Our clinical services are provided through an integrated system of primary
 care polyclinics, acute care tertiary hospitals, community hospitals, national
 specialty centres, and community-based ambulatory care centres.</p>
-<p>Together, we provide comprehensive, holistic, and innovative healthcare
-to address the needs of our patients and the population we serve. As a
-learning organization, we are establishing ourselves as an academic health
-system to drive clinical excellence, raise research intensity and grow
-our academic partnerships to continually improve the way we deliver care
-to our patients.</p>
+<p>With more than 20,000 healthcare professionals in NHG, we are committed
+towards building healthier and resilient communities, and Adding Years
+of Healthy Life to the people we serve.​</p>
 <p>Learn more about the <a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank">National Healthcare Group (NHG)</a> here.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/NHG_Insts_Logo.png">
+</div>
 <h4><strong>NHG Group Research &amp; Innovation</strong></h4>
 <p>At NHG, we believe that <strong>Research </strong>and <strong>Innovation</strong> are
 at the heart of <strong>advancing healthcare</strong>.</p>
