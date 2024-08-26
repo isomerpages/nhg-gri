@@ -18,6 +18,6 @@ sections:
         Psychiatric Disorders and more ...
       button: Read more here
       url: /page/
-      alt: Image alt text
+      alt: image
       image: /images/ECatalyst/ecatalyst47.jpg
 ---
