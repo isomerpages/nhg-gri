@@ -2,15 +2,15 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: NHG Group Research & Innovation
+agency_name: NHG Group Research & Innovation (GRI)
 contacts:
   - content:
       - phone: ""
       - email: ""
       - other: <p>If you have a query, feedback or wish to report a problem related to
-          this website, please fill in this online <a target="_blank"
-          rel="noopener noreferrer"
-          href="https://form.gov.sg/66b03ab92cb113a3b424c7da"><u>Form</u></a>.</p>
-    title: For General Enquiries & Feedback
+          this website, please fill in <a target="_blank"
+          href="https://form.gov.sg/66cd3291616f19d49e231c48"><u>this online
+          Form</u></a>.</p>
+    title: For Enquiries & Feedback
 feedback: ""
 ---
