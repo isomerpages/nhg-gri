@@ -1,5 +1,5 @@
 title: NHG Group Research & Innovation (GRI)
-url: https://www.open.gov.sg
+url: https://gri.nhg.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#21409a"
@@ -15,7 +15,7 @@ colors:
       color: "#00828d"
     - title: media-color-five
       color: "#00828d"
-description: An Isomer site of the Singapore Government
+description: A National Healthcare Group (NHG) site built with Isomer
 permalink: none
 baseurl: ""
 exclude:
