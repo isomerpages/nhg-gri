@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: NHG Group Research & Innovation (GRI)
-description: An Isomer site of the Singapore Government
+description: A National Healthcare Group (NHG) site built with Isomer
 image: /images/favicon-isomer.ico
 permalink: /
 notification: This Site is currently under Construction.
