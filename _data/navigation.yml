@@ -1,13 +1,13 @@
 logo: /images/GRI Logo/NHGlogo.jpg
 links:
   - title: About Us
-    collection: about
+    collection: about-us
   - title: Research
     collection: research
   - title: Innovation
     collection: innovation
-  - title: Talent Development
-    collection: about
+  - title: About Us
+    collection: about-us
   - title: Public Awareness
     collection: public-awareness
   - title: Newsroom
