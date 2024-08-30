@@ -75,5 +75,12 @@ support to develop digital solutions to enhance productive and efficiency.&nbsp;
 <p>Learn more about RAO here.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Translational Research Office (TRO)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
