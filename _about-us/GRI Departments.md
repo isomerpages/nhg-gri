@@ -71,7 +71,8 @@ RAO renders other administrative and technology support, such as reporting
 cluster's notable research and innovation KPIs/achievements; facilitating
 Clinical Trial (CT) related functions with internal and external stakeholders;
 serving as Secretariat for strategic committees; and providing technology
-support to develop digital solutions to enhance productive and efficiency.&nbsp;&nbsp;</p>
+support to develop digital solutions to enhance productive and efficiency.&nbsp;</p>
+<p>Learn more about RAO here.</p>
 </div>
 </details>
 </div>
