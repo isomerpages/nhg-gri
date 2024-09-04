@@ -8,7 +8,8 @@ description: ""
 Offices.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Centre for Medical Technologies &amp; Innovations (CMTi)</summary>
+<summary><strong>Centre for Medical Technologies &amp; Innovations (CMTi)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NHG Centre for Medical Technologies &amp; Innovations (CMTi) plays
 an integral role in the innovation ecosystem to help facilitate the development
@@ -21,7 +22,8 @@ and partnerships with academic and industry leaders.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Clinician-Scientist Development Office (CSDO)</summary>
+<summary><strong>Clinician-Scientist Development Office (CSDO)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NHG Clinician Scientist Development Office (CSDO) facilitates and
 supports research in NHG by providing holistic support to nurture and develop
@@ -36,7 +38,8 @@ scientific research from the bench to beside.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Office of Human Research Protection Programme (OHRPP)</summary>
+<summary><strong>Office of Human Research Protection Programme (OHRPP)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NHG Office of Human Research Protection Programme (OHRPP) ensures
 the ethical conduct of human research by overseeing ethics reviews, providing
@@ -51,7 +54,8 @@ conduct of research within NHG.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Research Administration Office (RAO)</summary>
+<summary><strong>Research Administration Office (RAO)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Research Administration Office (RAO) supports all offices and units
 under GRI as the key liaison for research finance matters. In addition,
@@ -65,7 +69,8 @@ support to develop digital solutions to enhance productive and efficiency.&nbsp;
 </div>
 </details>
 <details class="isomer-details">
-<summary>Translational Research Office (TRO)</summary>
+<summary><strong>Translational Research Office (TRO)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Translational Research Office (TRO), a part of the Group Research
 &amp; Innovation (GRI) in the National Healthcare Group (NHG), facilitates
