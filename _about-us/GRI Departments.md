@@ -70,14 +70,14 @@ support to develop digital solutions to enhance productive and efficiency.&nbsp;
 <p>The Translational Research Office (TRO), a part of the Group Research
 &amp; Innovation (GRI) in the National Healthcare Group (NHG), facilitates
 and supports translational research initiatives and activities at NHG.
-We work closely with partners within and across the ecosystem, including
+TRO works closely with partners within and across the ecosystem, including
 the Lee Kong Chian School of Medicine, to establish joint institutes, programmes,
 and projects that leverage the clinical strengths of NHG and complementary
-capabilities of our partners. We also work with internal and external stakeholders
-to support the management of research agreements, internal/joint grants
-and funding, as well as intellectual property (IP) developed by NHG staff.
-These in turn enable and facilitate the generation of new knowledge and
-insights towards better prevention, diagnosis, treatment and management
+capabilities of our partners. TRO also works with internal and external
+stakeholders to support the management of research agreements, internal/joint
+grants and funding, as well as intellectual property (IP) developed by
+NHG staff. These in turn enable and facilitate the generation of new knowledge
+and insights towards better prevention, diagnosis, treatment and management
 of diseases, as well as maintenance of health, in alignment with NHG’s
 vision and mission.</p>
 <p>Learn <strong><a href="https://research.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about TRO here</a></strong>.</p>
