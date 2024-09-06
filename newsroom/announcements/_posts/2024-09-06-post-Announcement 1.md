@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h1><strong>Announcement 1</strong></h1>
+<p></p>
