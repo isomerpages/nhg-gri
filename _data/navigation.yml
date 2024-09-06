@@ -12,3 +12,14 @@ links:
     collection: public-awareness
   - title: Contact Us
     url: /contact-us/
+  - title: Newsroom 2
+    resource_room: true
+  - title: Newsroom
+    url: /gri-newsroom
+    sublinks:
+      - title: Announcements
+        url: /newsroom/announcements/
+      - title: News
+        url: /newsroom/news/
+      - title: Events
+        url: /newsroom/events/
