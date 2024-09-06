@@ -8,7 +8,7 @@ notification: This Site is currently under Construction.
 sections:
   - hero:
       title: NHG Group Research & Innovation (GRI)
-      background: /images/hero-banner.png
+      background: /images/Hero Banner/hero-banner.png
       variant: center
   - infopic:
       title: e-Catalyst
