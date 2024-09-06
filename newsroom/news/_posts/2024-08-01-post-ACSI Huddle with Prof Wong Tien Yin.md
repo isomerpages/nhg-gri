@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>ACSI Huddle with Prof Wong Tien Yin</strong>
-</p>
 <p>On 26 July 2024, ACSI had the opportunity to invite Prof Wong Tien Yin,
 ACSI Advisor and Vice Provost, Tsinghua University for a casual sharing
 session with our clinician scientists and innovators!&nbsp;</p>
@@ -26,4 +24,8 @@ for research and innovation.</p>
 Rupesh Agrawal, ACSI Recruitment and Development Co-Lead and Senior Consultant,
 NHG Eye Institute.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News Images/ACSIHuddle_Prof_Wong_Tien_Yin.png">
+</div>
 <p></p>
