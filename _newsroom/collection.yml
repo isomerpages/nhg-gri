@@ -2,7 +2,6 @@ collections:
   newsroom:
     output: true
     order:
-      - Announcements.md
       - Events.md
       - Media Releases.md
       - eCatalyst Newsletter.md
