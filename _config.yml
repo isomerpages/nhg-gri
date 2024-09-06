@@ -1,6 +1,6 @@
 title: NHG Group Research & Innovation (GRI)
 url: https://gri.nhg.com.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/GRI Logo/favicon-isomer.ico
 colors:
   primary-color: "#21409a"
   secondary-color: "#00828d"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d151g8mkdwdkfv.amplifyapp.com
 prod: https://master.d28fl5b4mfw91m.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/favicon-isomer.ico
+shareicon: /images/GRI Logo/isomer-logo.svg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
