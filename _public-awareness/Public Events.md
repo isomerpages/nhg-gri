@@ -96,11 +96,11 @@ Review Board C and Senior Consultant, Department of Haematology-Oncology,
 National University Hospital who shared how the research scene has evolved,
 and how society has benefited from research that has been carried out.</p>
 </li>
-</ul>
-<p><a href="/files/Content Files/Public_Forum_Poster_20_July_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Event Brochure</a>
-<a href="/files/Public Awareness Files/Public_Forum_Poster_20_July_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+<li>
+<p><a href="/files/Content Files/Public_Forum_Poster_20_July_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Event Brochure here</a>
 </p>
-<p></p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -118,9 +118,12 @@ member of three Singapore medical/research ethics committees in Singapore
 spoke at the Forum, to create greater awareness and understanding of clinical
 research, to empower the public with the necessary knowledge to make informed
 decisions about participating in clinical trials.</p>
-<p><a href="/files/Content Files/Public_Forum_Poster_26_July_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Event Brochure</a>
-<a href="/files/Public Awareness Files/Public_Forum_Poster_26_July_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Content Files/Public_Forum_Poster_26_July_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Event Brochure here</a>
 </p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
