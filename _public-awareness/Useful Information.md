@@ -24,7 +24,7 @@ Tissue Donor’s Brochure answers the commonly asked questions on donating
 human tissue for research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Public Awareness Files/NHG_Tissue_Donor_Brochure__English__1_July_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
+<p><a href="/files/Public Awareness Files/NHG_Tissue_Donor_Brochure__English__1_July_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the Tissue Donor's Brochure here</a>
 </p>
 </li>
 </ul>
@@ -53,7 +53,7 @@ Graduate School of Theology) and a lay member of three Singapore medical/researc
 ethics committees in Singapore to find out more of clinical research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Public Awareness Files/Lifewise_Feature_Article___Tried___Tested_May_Jun_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
+<p><a href="/files/Public Awareness Files/Lifewise_Feature_Article___Tried___Tested_May_Jun_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the Article here</a>
 </p>
 </li>
 </ul>
