@@ -8,7 +8,7 @@ notification: This Site is currently under Construction.
 sections:
   - hero:
       title: NHG Group Research & Innovation (GRI)
-      background: /images/Hero Banner/NHG2.jpg
+      background: /images/Hero Banner/Fabric_of_Life_Design.png
       variant: center
   - resources:
       title: Newsroom
