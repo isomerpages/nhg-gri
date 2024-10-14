@@ -10,8 +10,4 @@ sections:
       title: NHG Group Research & Innovation (GRI)
       background: /images/Hero Banner/Fabric_of_Life_Design.png
       variant: center
-  - resources:
-      title: Newsroom
-      id: resources
-      button: See more
 ---
