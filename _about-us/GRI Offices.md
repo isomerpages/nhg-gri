@@ -1,6 +1,6 @@
 ---
-title: GRI Departments
-permalink: /gri-departments/
+title: GRI Offices
+permalink: /gri-offices/
 variant: tiptap
 description: ""
 ---
