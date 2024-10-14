@@ -1,9 +1,11 @@
 logo: /images/GRI Logo/NHG_Logo__1000x900.jpg
 links:
-  - title: About Us
-    collection: about-us
-  - title: Research
-    collection: research
+  - title: NHG
+    url: /about-nhg/
+  - title: About NHG-GRI
+    url: /aboutgri/
+  - title: GRI Units & Depts
+    url: /gri-departments/
   - title: Public Awareness
     collection: public-awareness
   - title: Contact Us
