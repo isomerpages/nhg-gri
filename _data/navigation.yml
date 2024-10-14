@@ -4,8 +4,6 @@ links:
     collection: about-us
   - title: Research
     collection: research
-  - title: Innovation
-    collection: innovation
   - title: Public Awareness
     collection: public-awareness
   - title: Newsroom
@@ -17,7 +15,5 @@ links:
         url: /newsroom/news/
       - title: Events
         url: /newsroom/events/
-      - title: E-Catalyst Newsletter
-        url: /ecatalyst/
   - title: Contact Us
     url: /contact-us/
