@@ -6,14 +6,5 @@ links:
     collection: research
   - title: Public Awareness
     collection: public-awareness
-  - title: Newsroom
-    url: /gri-newsroom
-    sublinks:
-      - title: Announcements
-        url: /newsroom/announcements/
-      - title: News
-        url: /newsroom/news/
-      - title: Events
-        url: /newsroom/events/
   - title: Contact Us
     url: /contact-us/
