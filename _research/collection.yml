@@ -1,0 +1,6 @@
+collections:
+  research:
+    output: true
+    order:
+      - About NHG Research.md
+      - Our Accredited Human Research Protection Program.md

@@ -1,0 +1,7 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About NHG.md
+      - NHG Group Research & Innovation (GRI).md
+      - GRI Departments.md

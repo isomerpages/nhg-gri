@@ -1,32 +1,17 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: NHG Group Research & Innovation (GRI)
+description: A National Healthcare Group (NHG) site built with Isomer
+image: /images/GRI Logo/NHG_Favicon.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This Site is currently under Construction.
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: NHG Group Research & Innovation (GRI)
+      background: /images/Hero Banner/Fabric_of_Life_Design.png
+      variant: center
+  - resources:
+      title: Newsroom
+      id: resources
+      button: See more
 ---
-

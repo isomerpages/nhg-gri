@@ -1,15 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/GRI Logo/NHG_Logo__1000x900.jpg
 links:
+  - title: About Us
+    collection: about-us
+  - title: Research
+    collection: research
+  - title: Public Awareness
+    collection: public-awareness
+  - title: Newsroom
+    url: /gri-newsroom
+    sublinks:
+      - title: Announcements
+        url: /newsroom/announcements/
+      - title: News
+        url: /newsroom/news/
+      - title: Events
+        url: /newsroom/events/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
