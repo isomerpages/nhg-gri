@@ -16,5 +16,5 @@ sections:
       id: infobar
       description: We are currently refreshing our content and getting our new Website
         ready. In the meantime, do visit our other Research & Innovation related
-        Sites.
+        Sites listed above.
 ---
