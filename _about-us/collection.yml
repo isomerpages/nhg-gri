@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - About NHG.md
+      - About NHG Health.md
       - NHG Group Research & Innovation (GRI).md
       - GRI Offices.md
